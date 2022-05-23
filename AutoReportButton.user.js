@@ -297,7 +297,7 @@ function VideoReport_ClickNext(callback, ...args)
 
 function VideoReport_ClickSubmit()
 {
-    if (document.querySelector("#submit-button").hasAttribute('disabled'))
+    if (document.querySelector("#submit-button > yt-button-renderer > a > #button[aria-label='신고']").parentElement.parentElement.parentElement.hasAttribute('disabled'))
     {
         window.setTimeout(VideoReport_ClickNext, 20);
         return;
