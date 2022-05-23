@@ -42,13 +42,20 @@ function AddVideoReportButton()
         return
     }
 
-    if (Boolean(document.querySelector("div#info > div#menu-container > div#menu > ytd-menu-renderer")))
+    var element = document.querySelector('#contentWrapper > ytd-menu-popup-renderer > tp-yt-paper-listbox#items');
+    if (Boolean(element))
     {
+        element.parentElement.style.maxHeight = '345px';
+
         var divNode = document.createElement('div');
-        divNode.innerHTML = '<button id="ReportAsVideoSpam" type="button">Report as video spam</button>';
+        divNode.innerHTML = `<button id="ReportAsVideoSpam" type="button">Report as Video Spam</button>
+<button id='ReportAsIncSpam' type="button">Report as Incentivization Spam</button>
+<button id='ReportAsMisleading' type="button">Report as Misleading Metadata or Thumbnails</button>`;
         divNode.setAttribute('id', 'autoReportContainer01');
-        document.querySelector("div#info > div#menu-container > div#menu > ytd-menu-renderer").appendChild(divNode);
-        document.getElementById("ReportAsVideoSpam").addEventListener("click", VideoReport_ClickMoreButton, false);
+        element.appendChild(divNode);
+        document.getElementById("ReportAsVideoSpam").addEventListener("click", VideoReport_VideoSpam, false);
+        document.getElementById("ReportAsIncSpam").addEventListener("click", VideoReport_IncSpam, false);
+        document.getElementById("ReportAsMisleading").addEventListener("click", VideoReport_MisleadingContent, false);
     }
     else
     {
@@ -153,18 +160,137 @@ function ReportUser_ClickNext(callback)
     }
 }
 
-function VideoReport_ClickNext(callback)
+function VideoReport_VideoSpam(_zargs)
+{
+    VideoReport_ClickMoreButton(`대량`, `* Video Spam
+    - Massively uploading same content.`);
+}
+
+function VideoReport_IncSpam(_zargs)
+{
+    VideoReport_ClickMoreButton(`현혹하는 텍스트`, `* Incentivization Spam
+    - Videos where the purpose is to encourage viewers to subscribe`);
+}
+
+function VideoReport_MisleadingContent(_zargs)
+{
+    VideoReport_ClickMoreButton(`현혹하는 텍스트`, `* Misleading Metadata or Thumbnails
+    - Using the title, thumbnails, or description to trick users into believing the content is something it is not.`);
+}
+
+function VideoReport_ClickMoreButton(reportType, msg)
+{
+    console.info('VideoReport_ClickMoreButton : ' + reportType);
+    var element = document.querySelector('#menu > ytd-menu-renderer > yt-icon-button > button[aria-label="추가 작업"]');
+    if (Boolean(element))
+    {
+        element.click();
+        window.setTimeout(VideoReport_ClickReportVideoButton, 20, reportType, msg);
+    }
+    else
+    {
+        window.setTimeout(VideoReport_ClickMoreButton, 20, reportType, msg);
+    }
+}
+
+function VideoReport_ClickReportVideoButton(reportType, msg)
+{
+    console.info('VideoReport_ClickReportVideoButton : ' + reportType);
+    var found = false;
+    document.querySelectorAll('#items > ytd-menu-service-item-renderer > tp-yt-paper-item > yt-formatted-string').forEach(element => {
+        if (element.textContent.includes('신고'))
+        {
+            element.click();
+            found = true
+        }
+    });
+    if (found)
+    {
+        window.setTimeout(VideoReport_ClickSpamCheckbox, 20, reportType, msg);
+    }
+    else
+    {
+        window.setTimeout(VideoReport_ClickReportVideoButton, 20, reportType, msg);
+    }
+}
+
+function VideoReport_ClickSpamCheckbox(reportType, msg)
+{
+    console.info('VideoReport_ClickSpamCheckbox : ' + reportType);
+    if (Boolean(document.querySelector('#options-select > tp-yt-paper-radio-group')))
+    {
+        var element = document.querySelector('#options-select > tp-yt-paper-radio-group > tp-yt-paper-radio-button[aria-label^="스팸"]');
+        element.click();
+        window.setTimeout(VideoReport_ClickVideoSpamCheckbox1, 20, reportType, msg);
+    }
+    else
+    {
+        window.setTimeout(VideoReport_ClickSpamCheckbox, 20, reportType, msg);
+    }
+}
+
+function VideoReport_ClickVideoSpamCheckbox1(reportType, msg)
+{
+    console.info('VideoReport_ClickVideoSpamCheckbox1 : ' + reportType);
+    if (Boolean(document.querySelector('#options-select > tp-yt-paper-radio-group > tp-yt-paper-dropdown-menu')))
+    {
+        document.querySelectorAll('#options-select > tp-yt-paper-radio-group > tp-yt-paper-dropdown-menu')[5].click();
+        window.setTimeout(VideoReport_ClickVideoSpamCheckbox2, 20, reportType, msg);
+    }
+    else
+    {
+        window.setTimeout(VideoReport_ClickVideoSpamCheckbox1, 20, reportType, msg);
+    }
+}
+
+function VideoReport_ClickVideoSpamCheckbox2(reportType, msg)
+{
+    console.info('VideoReport_ClickVideoSpamCheckbox2 : ' + msg);
+    var found = false;
+    document.querySelectorAll('tp-yt-paper-item').forEach(element => {
+        if (element.textContent.includes(reportType))
+        {
+            element.click();
+            found = true
+        }
+    });
+    if (found)
+    {
+        VideoReport_ClickNext(VideoReport_WriteDetails, msg);
+    }
+    else
+    {
+        window.setTimeout(VideoReport_ClickVideoSpamCheckbox2, 20, reportType, msg);
+    }
+}
+
+function VideoReport_WriteDetails(msg)
+{
+    console.info('VideoReport_WriteDetails : ' + msg);
+    var element = document.querySelector('#description-text > div > textarea#textarea');
+    if (Boolean(element))
+    {
+        element.value = msg;
+        VideoReport_ClickSubmit();
+    }
+    else
+    {
+        window.setTimeout(VideoReport_WriteDetails, 20, msg);
+    }
+}
+
+function VideoReport_ClickNext(callback, ...args)
 {
     if (document.querySelector("#submit-button").hasAttribute('disabled'))
     {
-        window.setTimeout(VideoReport_ClickNext, 20, callback);
+        window.setTimeout(VideoReport_ClickNext, 20, callback, args);
         return;
     }
 
     document.querySelector("#submit-button > a > #button").click();
     if (Boolean(callback))
     {
-        window.setTimeout(callback, 20);
+        window.setTimeout(callback, 20, args);
     }
 }
 
@@ -178,97 +304,4 @@ function VideoReport_ClickSubmit()
     }
 
     document.querySelector("#submit-button > yt-button-renderer > a > #button").click();
-}
-
-function VideoReport_ClickMoreButton()
-{
-    var element = document.querySelector('#menu > ytd-menu-renderer > yt-icon-button > button[aria-label="추가 작업"]');
-    if (Boolean(element))
-    {
-        element.click();
-        window.setTimeout(VideoReport_ClickReportVideoButton, 20);
-    }
-    else
-    {
-        window.setTimeout(VideoReport_ClickMoreButton, 20);
-    }
-}
-
-function VideoReport_ClickReportVideoButton()
-{
-    if (Boolean(document.querySelector('#items')))
-    {
-        document.querySelector('#items > ytd-menu-service-item-renderer > tp-yt-paper-item:nth-child(1)').click();
-        window.setTimeout(VideoReport_ClickSpamCheckbox, 20);
-    }
-    else
-    {
-        window.setTimeout(VideoReport_ClickReportVideoButton, 20);
-    }
-}
-
-function VideoReport_ClickSpamCheckbox()
-{
-    console.info('VideoReport_ClickSpamCheckbox');
-    if (Boolean(document.querySelector('#options-select > tp-yt-paper-radio-group')))
-    {
-        var element = document.querySelector('#options-select > tp-yt-paper-radio-group > tp-yt-paper-radio-button[aria-label^="스팸"]');
-        element.click();
-        window.setTimeout(VideoReport_ClickVideoSpamCheckbox1, 20);
-    }
-    else
-    {
-        window.setTimeout(VideoReport_ClickSpamCheckbox, 20);
-    }
-}
-
-function VideoReport_ClickVideoSpamCheckbox1()
-{
-    console.info('VideoReport_ClickVideoSpamCheckbox1');
-    if (Boolean(document.querySelector('#options-select > tp-yt-paper-radio-group > tp-yt-paper-dropdown-menu')))
-    {
-        document.querySelectorAll('#options-select > tp-yt-paper-radio-group > tp-yt-paper-dropdown-menu')[5].click();
-        window.setTimeout(VideoReport_ClickVideoSpamCheckbox2, 20);
-    }
-    else
-    {
-        window.setTimeout(VideoReport_ClickVideoSpamCheckbox1, 20);
-    }
-}
-
-function VideoReport_ClickVideoSpamCheckbox2()
-{
-    console.info('VideoReport_ClickVideoSpamCheckbox2');
-    var found = false;
-    document.querySelectorAll('tp-yt-paper-item').forEach(element => {
-        if (element.textContent.includes('대량 광고'))
-        {
-            element.click();
-            found = true
-        }
-    });
-    if (found)
-    {
-        VideoReport_ClickNext(VideoReport_WriteDetails);
-        // goto next
-    }
-    else
-    {
-        window.setTimeout(VideoReport_ClickVideoSpamCheckbox2, 20);
-    }
-}
-
-function VideoReport_WriteDetails()
-{
-    var element = document.querySelector('#description-text > div > textarea#textarea');
-    if (Boolean(element))
-    {
-        element.value = `* Video Spam
-- Massively uploading same content.`;
-        VideoReport_ClickSubmit();
-    }
-    else
-    {
-        window.setTimeout(VideoReport_ClickMoreButton, 20);
-    }
 }

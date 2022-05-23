@@ -126,7 +126,7 @@ Each index indicates corresponding number key, NOT "FOLLOW THESE STEPS" OR SOMET
 |O|Weak|[Rishi khamkar gaming OP](https://www.youtube.com/channel/UCc_WkqFJAinMfzVoW2hNQUA)|UCc_WkqFJAinMfzVoW2hNQUA|||
 |O|Weak|[Suharpan](https://www.youtube.com/channel/UCN-9GXLWp0RC8sbn4w-U_2w)|UCN-9GXLWp0RC8sbn4w-U_2w|||
 |O|Weak|[Minecraft Animation funny](https://www.youtube.com/channel/UCECn7aNMSUjHHPc_dup-ebw)|UCECn7aNMSUjHHPc_dup-ebw|||
-|O|Weak|[Legend King](https://www.youtube.com/channel/UCm7nPYf4GMbOoQ-Fa3x4BYQ)|UCm7nPYf4GMbOoQ-Fa3x4BYQ||Clickbai|
+|O|Weak|[Legend King](https://www.youtube.com/channel/UCm7nPYf4GMbOoQ-Fa3x4BYQ)|UCm7nPYf4GMbOoQ-Fa3x4BYQ||Clickbait|
 |O|Strong|[Project Minecraft](https://www.youtube.com/channel/UCe7MGbvwiVtweRslmFgP7Ug)|UCe7MGbvwiVtweRslmFgP7Ug|||
 |O|Strong|[Splash MC](https://www.youtube.com/channel/UC2wejC6FY_vvHA9O9lwT6mQ)|UC2wejC6FY_vvHA9O9lwT6mQ|Warpu||
 |O|Strong|[LemonGuy Shorts](https://www.youtube.com/channel/UCac4b1lNvy6X7bU4a0oae3Q)|UCac4b1lNvy6X7bU4a0oae3Q|Back Kuntry Boys 2.0|||
