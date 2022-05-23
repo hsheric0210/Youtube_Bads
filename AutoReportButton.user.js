@@ -281,6 +281,7 @@ function VideoReport_WriteDetails(msg)
 
 function VideoReport_ClickNext(callback, ...args)
 {
+    console.info('VideoReport_ClickNext : ' + args);
     if (document.querySelector("#submit-button").hasAttribute('disabled'))
     {
         window.setTimeout(VideoReport_ClickNext, 20, callback, args);
@@ -297,11 +298,13 @@ function VideoReport_ClickNext(callback, ...args)
 
 function VideoReport_ClickSubmit()
 {
-    if (document.querySelector("#submit-button > yt-button-renderer > a > #button[aria-label='신고']").parentElement.parentElement.parentElement.hasAttribute('disabled'))
+    console.info('VideoReport_ClickSubmit');
+    var element = document.querySelector("#submit-button #button[aria-label='신고']");
+    if (element.hasAttribute('disabled') || element.parentElement.hasAttribute('disabled') || element.parentElement.parentElement.hasAttribute('disabled') || element.parentElement.parentElement.parentElement.hasAttribute('disabled'))
     {
-        window.setTimeout(VideoReport_ClickNext, 20);
+        window.setTimeout(VideoReport_ClickSubmit, 20);
         return;
     }
 
-    document.querySelector("#submit-button > yt-button-renderer > a > #button").click();
+    element.click();
 }
