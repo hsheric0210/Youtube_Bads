@@ -10,6 +10,6 @@ CoordMode, Mouse, Screen
 Send {F2}^{a}{Right}{Left 10}+{Home}^{c}{Escape}
 Return
 
-*f::
-Send {Left}{Backspace}{Enter}
-Return
+;*f::
+;Send {Left}{Backspace}{Enter}
+;Return

@@ -11,12 +11,47 @@
 // @include        https://*
 // ==/UserScript==
 
-AddChannelReportButton();
-AddVideoReportButton();
+(function() {
+    'use strict';
+
+    function locationChanged(evt) {
+        console.info("location changed: " + window.location.href);
+        if (/.*youtube.com\/shorts\/.*/.test(window.location.href)) {
+            window.location.replace("https://youtube.com/watch?v=" + (/(?<=.*youtube.com\/shorts\/).*/.exec(window.location.href)));
+        }
+    }
+
+    function onKeydown(evt) {
+        // Use https://keycode.info/ to get keys
+        if (evt.altKey) {
+            if (evt.keyCode == 82) {
+                if (/.*youtube.com\/(channel|c|user)\/.*/.test(window.location.href)) {
+                    OnReportChannelAsVideoSpamClick();
+                }
+                else if (/.*youtube.com\/watch\?v=.*/.test(window.location.href)) {
+                    VideoReport_VideoSpam();
+                }
+            }
+            else if (evt.keyCode == 84 && /.*youtube.com\/watch\?v=.*/.test(window.location.href)) {
+                VideoReport_IncSpam();
+            }
+            else if (evt.keyCode == 89 && /.*youtube.com\/watch\?v=.*/.test(window.location.href)) {
+                VideoReport_MisleadingContent();
+            }
+        }
+    }
+    AddChannelReportButton();
+    AddVideoReportButton();
+    document.addEventListener('keydown', onKeydown, true);
+    document.addEventListener('load', locationChanged, true);
+    document.addEventListener('yt-navigate-start', locationChanged, true);
+    document.addEventListener('DOMContentLoaded', locationChanged, true);
+    document.addEventListener('hashchange', locationChanged, true);
+})();
 
 function AddChannelReportButton()
 {
-    if (!/.*youtube.com\/(channel|c)\/.*/.test(window.location.href))
+    if (!/.*youtube.com\/(channel|c|user)\/.*/.test(window.location.href))
     {
         return
     }
