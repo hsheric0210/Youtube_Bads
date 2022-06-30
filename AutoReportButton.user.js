@@ -24,6 +24,7 @@
     function onKeydown(evt) {
         // Use https://keycode.info/ to get keys
         if (evt.altKey) {
+            // ALT+R = Video spam
             if (evt.keyCode == 82) {
                 if (/.*youtube.com\/(channel|c|user)\/.*/.test(window.location.href)) {
                     OnReportChannelAsVideoSpamClick();
@@ -32,9 +33,11 @@
                     VideoReport_VideoSpam();
                 }
             }
+            // ALT+T = Incentivization spam
             else if (evt.keyCode == 84 && /.*youtube.com\/watch\?v=.*/.test(window.location.href)) {
                 VideoReport_IncSpam();
             }
+            // ALT+Y = Misleading content
             else if (evt.keyCode == 89 && /.*youtube.com\/watch\?v=.*/.test(window.location.href)) {
                 VideoReport_MisleadingContent();
             }
