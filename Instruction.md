@@ -27,9 +27,6 @@
 
 ## Helper JS
 - 유저 스크립트 형태입니다. Tampermonkey 또는 Greasemonkey를 사용해주세요
-- ALT+R - 채널 신고 / 동영상 스팸 신고
-- ALT+T - 동영상 인센티브 스팸 신고
-- ALT+Y - 동영상 컨텐츠 혼동 신고
 ---
 
 # Use Regex
