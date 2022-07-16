@@ -8,9 +8,9 @@ CoordMode, Mouse, Relative
 c::
 While GetKeyState("c", P)
 {
-	Send ^{Tab}
-	Sleep 300
 	Send !{R}
-	Sleep 300
+	Sleep 100
+	Send ^{Tab}
+	Sleep 250
 }
 Return

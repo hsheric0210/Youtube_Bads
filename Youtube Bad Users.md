@@ -35,12 +35,12 @@
 # Use Regex
 * Extract URLs from list on below
     - Replace from: .*\(((?:https|http)?:?(?:\/\/)(?:www|m)?\.?youtube\.com\/(?:channel|c)\/[-\w\d]+)\).*
-    - Replace to: $1
+    - Replace to: $1/about
 
 * Extract list from chrome bookmark dump
     - Step 1.
-        - Replace from: .*HREF="((?:https|http)?:??(?:\/\/)?(?:www|m)?\.?youtube\.com\/channel\/([-\w\d]+)).*".*>(.*)<\/A>
+        - Replace from: .*HREF="(?:https|http)?:??(?:\/\/)?(?:www|m)?\.?youtube\.com\/channel\/([-\w\d]+).*".*>(.*)<\/A>
         - Replace to: |O|Strong|[$2]\(https://www.youtube.com/channel/$1\)|$1|||
     - Step 2.
-        - Replace from: .*HREF="((?:https|http)?:??(?:\/\/)?(?:www|m)?\.?youtube\.com\/c\/([-\w\d]+)).*".*>(.*)<\/A>
+        - Replace from: .*HREF="(?:https|http)?:??(?:\/\/)?(?:www|m)?\.?youtube\.com\/c\/([-\w\d]+).*".*>(.*)<\/A>
         - Replace to: |O|Strong|[$2]\(https://www.youtube.com/c/$1\)|c/$1|||

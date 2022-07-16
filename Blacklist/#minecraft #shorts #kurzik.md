@@ -71,3 +71,15 @@
 |O|Strong|[Finn Sloan](https://www.youtube.com/channel/UCXm-Bf-aM1S69RKPk5EAotg)|UCXm-Bf-aM1S69RKPk5EAotg|||
 |O|Strong|[Iam khan](https://www.youtube.com/channel/UClcyv9uOlzCJvuesECkVQBg)|UClcyv9uOlzCJvuesECkVQBg|||
 |O|Strong|[Oliver HD](https://www.youtube.com/channel/UCBVWlSV_GWtad6ZrafvtAaQ)|UCBVWlSV_GWtad6ZrafvtAaQ|||
+|O|Strong|[XQC IN A RIZZ](https://www.youtube.com/channel/UCqbVyYlrZUtj5jESOVcVFCA)|UCqbVyYlrZUtj5jESOVcVFCA|||
+|O|Strong|[Kanishka Madushan](https://www.youtube.com/channel/UCm4xMzdpI_UMqsVSUViVmwQ)|UCm4xMzdpI_UMqsVSUViVmwQ|||
+|O|Strong|[Nladify](https://www.youtube.com/channel/UCb213uz7s7LYeYpgxNPO-Cw)|UCb213uz7s7LYeYpgxNPO-Cw|||
+|O|Strong|[Dark Steve S2](https://www.youtube.com/channel/UC0AW1NYyqjL6DwwWj0yEmVg)|UC0AW1NYyqjL6DwwWj0yEmVg|||
+|O|Strong|[ANISABLADY](https://www.youtube.com/channel/UCWvrtMKjGIlAePIF9JqsvjQ)|UCWvrtMKjGIlAePIF9JqsvjQ|||
+|O|Strong|[BLADITYKA](https://www.youtube.com/channel/UClgody05xizj2NC6NRenj3w)|UClgody05xizj2NC6NRenj3w|||
+|O|Strong|[LUPITABLADY](https://www.youtube.com/channel/UCFVXmDpJn8pXEqC3aTU19yA)|UCFVXmDpJn8pXEqC3aTU19yA|||
+|O|Strong|[Cat](https://www.youtube.com/channel/UCHYTVhB8LljuEgU2dTpdang)|UCHYTVhB8LljuEgU2dTpdang|||
+|O|Strong|[RichCraft](https://www.youtube.com/channel/UCoHPhvPa_yw9596YPc5YixQ)|UCoHPhvPa_yw9596YPc5YixQ|||
+|O|Strong|[OGcrafter](https://www.youtube.com/channel/UC6PT0vjLPlSuhfkAn6DRkpA)|UC6PT0vjLPlSuhfkAn6DRkpA|||
+|O|Strong|[Nurshupak](https://www.youtube.com/channel/UCiI0s5FUtxQQpB1ISNgStag)|UCiI0s5FUtxQQpB1ISNgStag|||
+|O|Strong|[rabbittt](https://www.youtube.com/channel/UClhZL4nBTVCvbttgFTuUyXw)|UClhZL4nBTVCvbttgFTuUyXw|||
