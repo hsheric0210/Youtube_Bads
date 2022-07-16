@@ -36,6 +36,29 @@
 |X|Banned|[Natalie](https://www.youtube.com/channel/UC70S8AQlhQYYa6gB2GOV8RQ)|UC70S8AQlhQYYa6gB2GOV8RQ|||
 |X|Banned|[Rio Cruis](https://www.youtube.com/channel/UCjHY4lpqPj6TuAcjxhoHp3w)|UCjHY4lpqPj6TuAcjxhoHp3w|||
 |X|Banned|[wow gamer](https://www.youtube.com/channel/UCPRglodioGsWP557PJaip8Q)|UCPRglodioGsWP557PJaip8Q|||
+|X|Banned|[Nigeruso](https://www.youtube.com/channel/UC9aNn4W2LqA_vO0D-gYu-Og)|UC9aNn4W2LqA_vO0D-gYu-Og|||
+|X|Banned|[DRAKO](https://www.youtube.com/channel/UCWo_d4SKbaVDQYNQIwnuZYQ)|UCWo_d4SKbaVDQYNQIwnuZYQ|ПРОМОКОД 1xBet||
+|X|Banned|[Khan Jug](https://www.youtube.com/channel/UClH5L270sE3_KObVzXT6Y3g)|UClH5L270sE3_KObVzXT6Y3g|||
+|X|Banned|[love](https://www.youtube.com/channel/UCI-VdtB1XHBmmmkuzaHEFfA)|UCI-VdtB1XHBmmmkuzaHEFfA|||
+|X|Banned|[Minecraft 2.0](https://www.youtube.com/channel/UClUjJJUsggMo1Xfa1PRxyJw)|UClUjJJUsggMo1Xfa1PRxyJw|||
+|X|Banned|[Reboot](https://www.youtube.com/channel/UCE2iBIrfUJi7bYISq6jkU_g)|UCE2iBIrfUJi7bYISq6jkU_g|||
+|X|Banned|[Sarah](https://www.youtube.com/channel/UCs-YBGuxBE5r2uhTVXtJiTA)|UCs-YBGuxBE5r2uhTVXtJiTA|||
+|X|Banned|[SG SHORTS](https://www.youtube.com/channel/UCMyw-xR5axQDQ0Spmh_U0aA)|UCMyw-xR5axQDQ0Spmh_U0aA|||
+|X|Banned|[LITE RICH YT](https://www.youtube.com/channel/UCY-B-HDk5tMngBX6ZdqLjiA)|UCY-B-HDk5tMngBX6ZdqLjiA|||
+|X|Banned|[TikTok Meme](https://www.youtube.com/channel/UCiBn75GaqDzUnuaSTL5Ahag)|UCiBn75GaqDzUnuaSTL5Ahag|||
+|X|Banned|[Minecraft Shorts](https://www.youtube.com/channel/UCFZmhKaoVkat129xZdhJ10Q)|UCFZmhKaoVkat129xZdhJ10Q|||
+|X|Banned|[shorts](https://www.youtube.com/channel/UCtWLqJTp9YPIDjsIKx-t4qw)|UCtWLqJTp9YPIDjsIKx-t4qw|||
+|X|Banned|[babar eerna](https://www.youtube.com/channel/UCoPi7ZTWek0ydPXgfy4bAfQ)|UCoPi7ZTWek0ydPXgfy4bAfQ|||
+|X|Banned|[OMG Short](https://www.youtube.com/channel/UCKP8R6l6XDCxeXTQS2E8G7Q)|UCKP8R6l6XDCxeXTQS2E8G7Q|||
+|X|Banned|[Moon](https://www.youtube.com/channel/UChyY10a30g5QaU77j1ku04Q)|UChyY10a30g5QaU77j1ku04Q|||
+|X|Banned|[Majak](https://www.youtube.com/channel/UC3wG-3L26GmMWvcde_7sdSQ)|UC3wG-3L26GmMWvcde_7sdSQ|||
+|X|Banned|[Yop Gy](https://www.youtube.com/channel/UCHdVtlkzToM10iKMPNEDIXg)|UCHdVtlkzToM10iKMPNEDIXg|||
+|X|Banned|[Lucky Maker](https://www.youtube.com/channel/UCh_s-D47jhOjnMSqApg2tcw)|UCh_s-D47jhOjnMSqApg2tcw|||
+|X|Banned|[Yarri yarri](https://www.youtube.com/channel/UCH1wgdZAVQnqQ6oeW8iLdzQ)|UCH1wgdZAVQnqQ6oeW8iLdzQ|||
+|X|Banned|[Channel Mamank 02](https://www.youtube.com/channel/UC4jqae5zRhvJ7s0vmK3wUMQ)|UC4jqae5zRhvJ7s0vmK3wUMQ|||
+|X|Banned|[2.0 ART](https://www.youtube.com/channel/UC1u7OocOnhei28jxgDv3ltA)|UC1u7OocOnhei28jxgDv3ltA|||
+|X|Banned|[Harry Pro Gaming](https://www.youtube.com/channel/UCKiZc0v3y7IhMw-FJwGNq1A)|UCKiZc0v3y7IhMw-FJwGNq1A|||
+|X|Banned|[SWEET GIRL IN COMMENTS](https://www.youtube.com/channel/UCuFRl4BruwakVCoQl3dOrGA)|UCuFRl4BruwakVCoQl3dOrGA|||
 |X|Videos_Deleted|[Pon4k po](https://www.youtube.com/channel/UC-lVqDzlw08iJIAhGVfIJMw)|UC-lVqDzlw08iJIAhGVfIJMw|||
 |X|Videos_Deleted|[HN ISAAC YT](https://www.youtube.com/channel/UCrF6UMMxXPMwwANPfIRtzyw)|UCrF6UMMxXPMwwANPfIRtzyw|||
 |X|Videos_Deleted|[Манго \[iMango\]](https://www.youtube.com/channel/UC1cKqYDD4A7tRAtQo24zbIA)|UC1cKqYDD4A7tRAtQo24zbIA|Mango \[iMango\]||
@@ -89,6 +112,35 @@
 |X|Videos_Deleted|[최유나](https://www.youtube.com/channel/UCdyFTSlX8PrgsdWoaeml3NQ)|UCdyFTSlX8PrgsdWoaeml3NQ|||
 |X|Videos_Deleted|[Education Tv](https://www.youtube.com/channel/UC4O6gYE7GtwFYKW-_EcG9Ww)|UC4O6gYE7GtwFYKW-_EcG9Ww|||
 |X|Videos_Deleted|[Johnny Montilla](https://www.youtube.com/channel/UC0WYtdi4HG3RFjnW7brPIXw)|UC0WYtdi4HG3RFjnW7brPIXw|||
+|X|Videos_Deleted|[ROOMILK](https://www.youtube.com/channel/UCJ4oi0Tb7lbE5gpz0LiDNqw)|UCJ4oi0Tb7lbE5gpz0LiDNqw|1-Хорус||
+|X|Videos_Deleted|[PRASHANT FREEFIRE](https://www.youtube.com/channel/UCDLKiI_TcenJqGgY7b92MyA)|UCDLKiI_TcenJqGgY7b92MyA|XUZEET FF||
+|X|Videos_Deleted|[CHSS 4King](https://www.youtube.com/channel/UCfSP_SE9tuTmrIfkC5SVvFg)|UCfSP_SE9tuTmrIfkC5SVvFg|Game of King 4.0||
+|X|Videos_Deleted|[Cyzmify](https://www.youtube.com/channel/UCnbP_KTZ07jJ2AKPLf9RHZA)|UCnbP_KTZ07jJ2AKPLf9RHZA|||
+|X|Videos_Deleted|[HENRY CHANNEL](https://www.youtube.com/channel/UCguZZcVhj0QuSejsZSm14_Q)|UCguZZcVhj0QuSejsZSm14_Q|Message Me On Telegram - @technicalguruji41||
+|X|Videos_Deleted|[JORDAN STUDIO](https://www.youtube.com/channel/UCMkzmGvdS18x-qqHA6V4Xew)|UCMkzmGvdS18x-qqHA6V4Xew|Topcius yt||
+|X|Videos_Deleted|[jutfruzeeee](https://www.youtube.com/channel/UChx18Bku1QjLKVHMMjJMmJA)|UChx18Bku1QjLKVHMMjJMmJA|||
+|X|Videos_Deleted|[Spiderman](https://www.youtube.com/channel/UCTK6JvPLvDHjlcpA1eo1Hlw)|UCTK6JvPLvDHjlcpA1eo1Hlw|pvrity||
+|X|Videos_Deleted|[SUB FOR A COOKIE](https://www.youtube.com/channel/UCz_M-wzQSPvWAEa25Bo1o_A)|UCz_M-wzQSPvWAEa25Bo1o_A|||
+|X|Videos_Deleted|[Viral Shorts 3](https://www.youtube.com/channel/UCrx5el13Wpnuc0A2vaJncow)|UCrx5el13Wpnuc0A2vaJncow|Kushtia Blog 2.0||
+|X|Videos_Deleted|[Xikar](https://www.youtube.com/channel/UC6vtRlwfUsspbXC-H9f0bPw)|UC6vtRlwfUsspbXC-H9f0bPw|||
+|X|Videos_Deleted|[YT SHORTS FEED](https://www.youtube.com/channel/UCZARs-SkrxYNdeIaGsFmZTg)|UCZARs-SkrxYNdeIaGsFmZTg|Apps info||
+|X|Videos_Deleted|[trending video](https://www.youtube.com/channel/UCcAXmU-N0sqSowKTHnxI4Qg)|UCcAXmU-N0sqSowKTHnxI4Qg|ali_badsha_ 2 crore views||
+|X|Videos_Deleted|[Baboo](https://www.youtube.com/channel/UC17KBbDJm3spheV-Hs4cgOw)|UC17KBbDJm3spheV-Hs4cgOw|Chxrlie||
+|X|Videos_Deleted|[Fstay999](https://www.youtube.com/channel/UCp4Fl5h52tqNmBjfhCVDmiw)|UCp4Fl5h52tqNmBjfhCVDmiw|||
+|X|Videos_Deleted|[andrej kuc](https://www.youtube.com/channel/UCYASyQj9vnZlESibOqaBb6A)|UCYASyQj9vnZlESibOqaBb6A|||
+|X|Videos_Deleted|[Faizan King](https://www.youtube.com/channel/UCQKOzIWtlCVcBk19uo2P9Eg)|UCQKOzIWtlCVcBk19uo2P9Eg|||
+|X|Videos_Deleted|[Saghir Saghir](https://www.youtube.com/channel/UCXK482IWJ9bwecJevauAwtA)|UCXK482IWJ9bwecJevauAwtA|||
+|X|Videos_Deleted|[𝗦𝗦 𝗚𝗔𝗠𝗜𝗡𝗚](https://www.youtube.com/channel/UCabbie8y-3zuFRt8iygXo9Q)|UCabbie8y-3zuFRt8iygXo9Q|||
+|X|Videos_Deleted|[Dream 100k](https://www.youtube.com/channel/UCI3jE-NM_BvgUJUf6nL4eCg)|UCI3jE-NM_BvgUJUf6nL4eCg|MJM BUNNY FF||
+|X|Videos_Deleted|[TS ANSHU GAMER](https://www.youtube.com/channel/UCPpo8kZSU-zn1lRQMc9CDKg)|UCPpo8kZSU-zn1lRQMc9CDKg|||
+|X|Videos_Deleted|[JK BEST GAMER](https://www.youtube.com/channel/UCD3BcWqLDNZZZP3kDdkdL8A)|UCD3BcWqLDNZZZP3kDdkdL8A|||
+|X|Videos_Deleted|[MainKek](https://www.youtube.com/channel/UC-m1SyHqpEoiwv233qFQmbw)|UC-m1SyHqpEoiwv233qFQmbw|||
+|X|Videos_Deleted|[Maa Gpm](https://www.youtube.com/channel/UCGKg966OqG1AtTl2VRFoNSQ)|UCGKg966OqG1AtTl2VRFoNSQ|Gang Olympus||
+|X|Videos_Deleted|[rock key life( rockey)](https://www.youtube.com/channel/UC5RXI0dYp-JLxWh0f3pvx5w)|UC5RXI0dYp-JLxWh0f3pvx5w|||
+|X|Videos_Deleted|[Cats Family](https://www.youtube.com/channel/UCzZKZCWjEsa6l3Io89XAUZA)|UCzZKZCWjEsa6l3Io89XAUZA|||
+|X|Videos_Deleted|[Project Minecraft](https://www.youtube.com/channel/UCe7MGbvwiVtweRslmFgP7Ug)|UCe7MGbvwiVtweRslmFgP7Ug|Sunday Snacks||
+|X|Videos_Deleted|[Bgmi Lover](https://www.youtube.com/channel/UCh1eVQxLfTCg7KCa2EgvUwg)|UCh1eVQxLfTCg7KCa2EgvUwg|||
+|X|Videos_Deleted|[JIN](https://www.youtube.com/channel/UCtndT7VmcnXuFMtn4MxxbzA)|UCtndT7VmcnXuFMtn4MxxbzA|||
 |O|Piracy|[ThePapish](https://www.youtube.com/c/ThePapish)|c/ThePapish||Frame Order|
 |O|Piracy|[Toon Zoom](https://www.youtube.com/c/ToonZoom)|c/ToonZoom||Frame Order|
 |O|Piracy|[자기야 이거사주라](https://www.youtube.com/channel/UCxd923yX48Wa10Ly_n1eXvA)|UCxd923yX48Wa10Ly_n1eXvA|||
@@ -115,6 +167,8 @@
 |O|Weak|[Furix - Brawl Stars](https://www.youtube.com/channel/UCqrDf6l0uyjtjTyWd6EOhEw)|UCqrDf6l0uyjtjTyWd6EOhEw|||
 |O|Weak|[CARTOON T.V 2004](https://www.youtube.com/channel/UCjNTZpNt1md8bJPp6Oyqu_A)|UCjNTZpNt1md8bJPp6Oyqu_A|||
 |O|Weak|[B Holder 881](https://www.youtube.com/channel/UC5Nzb0_YAId6pDTplIE_Cqw)|UC5Nzb0_YAId6pDTplIE_Cqw|||
+|O|Weak|[KAKASHI 2.0](https://www.youtube.com/channel/UClT-4XBY5I450i8dsM5ZOqQ)|UClT-4XBY5I450i8dsM5ZOqQ|||
+|O|Weak|[Tech Tik](https://www.youtube.com/channel/UC6LGRvCb34kjT_1IzmPGRMw)|UC6LGRvCb34kjT_1IzmPGRMw|||
 |O|Strong_VideoName|[G3](https://www.youtube.com/channel/UCVe-WMlwj9qiJEc9vqgZmbQ)|UCVe-WMlwj9qiJEc9vqgZmbQ|||
 |O|Strong_VideoName|[Rao Gayasuddin](https://www.youtube.com/channel/UCmvshwIWHZgFa2qQ8WUB6Uw)|UCmvshwIWHZgFa2qQ8WUB6Uw|||
 |O|Strong_VideoName|[Mehrob Music](https://www.youtube.com/channel/UCEr3iPX6mtFSwc5U7iruo0w)|UCEr3iPX6mtFSwc5U7iruo0w|||
@@ -126,109 +180,69 @@
 |O|Strong_VideoName|[Wexty](https://www.youtube.com/channel/UCibqFcvV73mi6K9gm3FuTZQ)|UCibqFcvV73mi6K9gm3FuTZQ|||
 |O|Strong_VideoName|[زهره الياسمين](https://www.youtube.com/channel/UCo6yDYfKCZzgtaCMHnWN7bw)|UCo6yDYfKCZzgtaCMHnWN7bw|||
 |O|Strong_VideoName|[Azhar Balti](https://www.youtube.com/channel/UCiCMC8qUMptYNkCL6Zt_GOA)|UCiCMC8qUMptYNkCL6Zt_GOA|||
+|O|Strong_VideoName|[Motivatsia](https://www.youtube.com/channel/UCYI-VfoRKEdBH1PxO7qh2yA)|UCYI-VfoRKEdBH1PxO7qh2yA|Motivatsion⚜Shorts||
 |O|Moderate_VideoName|[leader del settore saldatura welding](https://www.youtube.com/channel/UCpmXPuT7OyPQFlzdpNR82EA)|UCpmXPuT7OyPQFlzdpNR82EA|||
-|X|Videos_Deleted|[Project Minecraft](https://www.youtube.com/channel/UCe7MGbvwiVtweRslmFgP7Ug)|UCe7MGbvwiVtweRslmFgP7Ug|Sunday Snacks||
 |O|Strong|[Splash MC](https://www.youtube.com/channel/UC2wejC6FY_vvHA9O9lwT6mQ)|UC2wejC6FY_vvHA9O9lwT6mQ|Warpu||
 |O|Strong|[LemonGuy Shorts](https://www.youtube.com/channel/UCac4b1lNvy6X7bU4a0oae3Q)|UCac4b1lNvy6X7bU4a0oae3Q|Back Kuntry Boys 2.0|||
 |O|Strong|[xyzSanchez](https://www.youtube.com/channel/UCDm3c0QJb6MgTu4y1UqCcbw)|UCDm3c0QJb6MgTu4y1UqCcbw|||
-|X|Videos_Deleted|[ROOMILK](https://www.youtube.com/channel/UCJ4oi0Tb7lbE5gpz0LiDNqw)|UCJ4oi0Tb7lbE5gpz0LiDNqw|1-Хорус||
 |O|Strong|[Zee Gamer](https://www.youtube.com/channel/UCyMMXSOuuf0wR89KbYGAu_A)|UCyMMXSOuuf0wR89KbYGAu_A|GoD DaKsH OP||
 |O|Strong|[Reaper](https://www.youtube.com/channel/UCucKv61giQi4yYrm-nycU0w)|UCucKv61giQi4yYrm-nycU0w|||
 |O|Strong|[Chapi](https://www.youtube.com/channel/UCpJMu1aqywJxS2EZI-OT6Ug)|UCpJMu1aqywJxS2EZI-OT6Ug|FilmMed1a||
-|X|Banned|[Nigeruso](https://www.youtube.com/channel/UC9aNn4W2LqA_vO0D-gYu-Og)|UC9aNn4W2LqA_vO0D-gYu-Og|||
 |O|Strong|[Benjamin Masters](https://www.youtube.com/channel/UC7-nN5ncEP2JQDw_zIbuoGg)|UC7-nN5ncEP2JQDw_zIbuoGg|||
 |O|Strong|[Skul Gamer 2](https://www.youtube.com/channel/UCKL_eHzOO-ihMe9NzRM2Vqg)|UCKL_eHzOO-ihMe9NzRM2Vqg|Football Mania||
 |O|Strong|[Mems Tik-tok](https://www.youtube.com/channel/UCcd5sNGZIUJ7L2F002n1ckQ)|UCcd5sNGZIUJ7L2F002n1ckQ|||
-|X|Videos_Deleted|[PRASHANT FREEFIRE](https://www.youtube.com/channel/UCDLKiI_TcenJqGgY7b92MyA)|UCDLKiI_TcenJqGgY7b92MyA|XUZEET FF||
 |O|Strong|[Toper - Minecraft](https://www.youtube.com/channel/UCdM0WuMzixrnIZMC7hMRweQ)|UCdM0WuMzixrnIZMC7hMRweQ|Hois||
-|X|Videos_Deleted|[Bgmi Lover](https://www.youtube.com/channel/UCh1eVQxLfTCg7KCa2EgvUwg)|UCh1eVQxLfTCg7KCa2EgvUwg|||
 |O|Strong|[bot](https://www.youtube.com/channel/UCIkJB4V1xW_5baV8DtLo3NA)|UCIkJB4V1xW_5baV8DtLo3NA|buggers||
 |O|Strong|[Bruh xD](https://www.youtube.com/channel/UCV6FdhsxnTW4V8s-cUHtUiQ)|UCV6FdhsxnTW4V8s-cUHtUiQ|ROCK - E||
-|X|Videos_Deleted|[CHSS 4King](https://www.youtube.com/channel/UCfSP_SE9tuTmrIfkC5SVvFg)|UCfSP_SE9tuTmrIfkC5SVvFg|Game of King 4.0||
 |O|Strong|[Clany](https://www.youtube.com/channel/UCCwHQteItBQOrk3Zsq8-gjg)|UCCwHQteItBQOrk3Zsq8-gjg|||
-|X|Videos_Deleted|[Cyzmify](https://www.youtube.com/channel/UCnbP_KTZ07jJ2AKPLf9RHZA)|UCnbP_KTZ07jJ2AKPLf9RHZA|||
 |O|Strong|[Deathno](https://www.youtube.com/channel/UCkJGSHI-tW-k4E3c8b9hrMg)|UCkJGSHI-tW-k4E3c8b9hrMg|||
-|X|Banned|[DRAKO](https://www.youtube.com/channel/UCWo_d4SKbaVDQYNQIwnuZYQ)|UCWo_d4SKbaVDQYNQIwnuZYQ|ПРОМОКОД 1xBet||
 |O|Strong|[FRAME ORDER FAN](https://www.youtube.com/channel/UCTSCXqIn_ET22pUPB8YNeKg)|UCTSCXqIn_ET22pUPB8YNeKg|||
 |O|Strong|[gazar](https://www.youtube.com/channel/UCeEaCrXow_OpvZaeysMu2JA)|UCeEaCrXow_OpvZaeysMu2JA|||
-|X|Banned|[Harry Pro Gaming](https://www.youtube.com/channel/UCKiZc0v3y7IhMw-FJwGNq1A)|UCKiZc0v3y7IhMw-FJwGNq1A|||
-|X|Videos_Deleted|[HENRY CHANNEL](https://www.youtube.com/channel/UCguZZcVhj0QuSejsZSm14_Q)|UCguZZcVhj0QuSejsZSm14_Q|Message Me On Telegram - @technicalguruji41||
 |O|Strong|[IAmKick](https://www.youtube.com/channel/UCARDqgcms0sPF7GkSSUtYoQ)|UCARDqgcms0sPF7GkSSUtYoQ|||
 |O|Strong|[JaneMan Gaming](https://www.youtube.com/channel/UC0yfc29uQV3ldl1wEbB7z0Q)|UC0yfc29uQV3ldl1wEbB7z0Q|Prof Pikachu||
-|X|Videos_Deleted|[JORDAN STUDIO](https://www.youtube.com/channel/UCMkzmGvdS18x-qqHA6V4Xew)|UCMkzmGvdS18x-qqHA6V4Xew|Topcius yt||
-|X|Videos_Deleted|[jutfruzeeee](https://www.youtube.com/channel/UChx18Bku1QjLKVHMMjJMmJA)|UChx18Bku1QjLKVHMMjJMmJA|||
-|X|Banned|[Khan Jug](https://www.youtube.com/channel/UClH5L270sE3_KObVzXT6Y3g)|UClH5L270sE3_KObVzXT6Y3g|||
 |O|Strong|[khobsorat page](https://www.youtube.com/channel/UCGVAcKfUBoHuw6FG-6sz4BQ)|UCGVAcKfUBoHuw6FG-6sz4BQ|||
 |O|Strong|[LEGENDARY BOOS GEMARS 69👍](https://www.youtube.com/channel/UCYEvbj_BhUqbFCnK2hcfpBA)|UCYEvbj_BhUqbFCnK2hcfpBA|||
 |O|Strong|[Looper Man](https://www.youtube.com/channel/UCuynSN6g_3J1wgGJ6r21_AA)|UCuynSN6g_3J1wgGJ6r21_AA|RS Sports||
-|X|Banned|[love](https://www.youtube.com/channel/UCI-VdtB1XHBmmmkuzaHEFfA)|UCI-VdtB1XHBmmmkuzaHEFfA|||
 |O|Strong|[maplesan](https://www.youtube.com/channel/UCWlGD2_frItlBhlQeLkvZvw)|UCWlGD2_frItlBhlQeLkvZvw|Bang Bang||
 |O|Strong|[Mems Tik-tok](https://www.youtube.com/channel/UCcd5sNGZIUJ7L2F002n1ckQ)|UCcd5sNGZIUJ7L2F002n1ckQ|||
-|X|Banned|[Minecraft 2.0](https://www.youtube.com/channel/UClUjJJUsggMo1Xfa1PRxyJw)|UClUjJJUsggMo1Xfa1PRxyJw|||
 |O|Strong|[Minecraft boy](https://www.youtube.com/channel/UCF0yx-Xe2XjwI8VAYQP1tPQ)|UCF0yx-Xe2XjwI8VAYQP1tPQ|VS VENOM||
 |O|Strong|[Naruto](https://www.youtube.com/channel/UCPbY87AdSKUCoXR35kSJdCg)|UCPbY87AdSKUCoXR35kSJdCg|Sxy explainer||
 |O|Strong|[NON - PROFIT channel 🙌](https://www.youtube.com/channel/UCxJVVlSliSFVxyzcfWtTVDQ)|UCxJVVlSliSFVxyzcfWtTVDQ|||
 |O|Strong|[OP SANJAY 69](https://www.youtube.com/channel/UCjTBbNRV7SDq1F7zOrQGp5g)|UCjTBbNRV7SDq1F7zOrQGp5g|||
 |O|Strong|[R.T ARMY STATUS ⚔️⚔️](https://www.youtube.com/channel/UC_ziYD9M1YghOesPv1RpU7g)|UC_ziYD9M1YghOesPv1RpU7g|||
-|X|Banned|[Reboot](https://www.youtube.com/channel/UCE2iBIrfUJi7bYISq6jkU_g)|UCE2iBIrfUJi7bYISq6jkU_g|||
 |O|Strong|[Respect 💕](https://www.youtube.com/channel/UCXQak2FE1LSut45AkgewEmQ)|UCXQak2FE1LSut45AkgewEmQ|Respect 11||
 |O|Strong|[SanityMC](https://www.youtube.com/channel/UCsYsGuk9yLK1BGzZ7OlSVog)|UCsYsGuk9yLK1BGzZ7OlSVog|ItsSanity||
-|X|Banned|[Sarah](https://www.youtube.com/channel/UCs-YBGuxBE5r2uhTVXtJiTA)|UCs-YBGuxBE5r2uhTVXtJiTA|||
-|X|Banned|[SG SHORTS](https://www.youtube.com/channel/UCMyw-xR5axQDQ0Spmh_U0aA)|UCMyw-xR5axQDQ0Spmh_U0aA|||
 |O|Strong|[Speed](https://www.youtube.com/channel/UCwJqo_PYcoH4x4f6wqJMADA)|UCwJqo_PYcoH4x4f6wqJMADA|||
-|X|Videos_Deleted|[Spiderman](https://www.youtube.com/channel/UCTK6JvPLvDHjlcpA1eo1Hlw)|UCTK6JvPLvDHjlcpA1eo1Hlw|pvrity||
-|X|Videos_Deleted|[SUB FOR A COOKIE](https://www.youtube.com/channel/UCz_M-wzQSPvWAEa25Bo1o_A)|UCz_M-wzQSPvWAEa25Bo1o_A|||
-|O|Weak|[Tech Tik](https://www.youtube.com/channel/UC6LGRvCb34kjT_1IzmPGRMw)|UC6LGRvCb34kjT_1IzmPGRMw|||
 |O|Strong|[The Pro Aatif Gamerz](https://www.youtube.com/channel/UCWKLPBWvMczwlPLwWdZvp9g)|UCWKLPBWvMczwlPLwWdZvp9g|3.59 edits||
 |O|Strong|[Twinkle](https://www.youtube.com/channel/UC8oNFw9cu9D3Fxx281bp67Q)|UC8oNFw9cu9D3Fxx281bp67Q|||
 |O|Strong|[GOLD MOON](https://www.youtube.com/channel/UCCtizB-JjbfkHi7tpjn8-dQ)|UCCtizB-JjbfkHi7tpjn8-dQ|||
 |O|Strong|[SoSah](https://www.youtube.com/channel/UC1FRXtn4YwRZlwn_idux7Mw)|UC1FRXtn4YwRZlwn_idux7Mw|||
 |O|Strong|[Limit](https://www.youtube.com/channel/UC9RGpV4bHUkKiagrHMGmt6g)|UC9RGpV4bHUkKiagrHMGmt6g|||
 |O|Strong|[cube](https://www.youtube.com/channel/UCP7kjl7OeHWU2lgJqpRcsgA)|UCP7kjl7OeHWU2lgJqpRcsgA|||
-|X|Banned|[LITE RICH YT](https://www.youtube.com/channel/UCY-B-HDk5tMngBX6ZdqLjiA)|UCY-B-HDk5tMngBX6ZdqLjiA|||
-|X|Videos_Deleted|[Viral Shorts 3](https://www.youtube.com/channel/UCrx5el13Wpnuc0A2vaJncow)|UCrx5el13Wpnuc0A2vaJncow|Kushtia Blog 2.0||
 |O|Strong|[artist & designer world](https://www.youtube.com/channel/UCTgGFHoWE50kXdFLqCALC7g)|UCTgGFHoWE50kXdFLqCALC7g|||
-|X|Banned|[TikTok Meme](https://www.youtube.com/channel/UCiBn75GaqDzUnuaSTL5Ahag)|UCiBn75GaqDzUnuaSTL5Ahag|||
-|X|Videos_Deleted|[Xikar](https://www.youtube.com/channel/UC6vtRlwfUsspbXC-H9f0bPw)|UC6vtRlwfUsspbXC-H9f0bPw|||
-|X|Banned|[Minecraft Shorts](https://www.youtube.com/channel/UCFZmhKaoVkat129xZdhJ10Q)|UCFZmhKaoVkat129xZdhJ10Q|||
 |O|Strong|[Funny cars shorts](https://www.youtube.com/channel/UCKKhP0UN9Cw1l4-B2-PnqMA)|UCKKhP0UN9Cw1l4-B2-PnqMA|||
 |O|Strong|[Baby Cats 2.2](https://www.youtube.com/channel/UCeGDs8bZhH2WOxWl670J19Q)|UCeGDs8bZhH2WOxWl670J19Q|||
 |O|Strong|[Funny Cat Cute](https://www.youtube.com/channel/UC0Jx-zSxuYfhzIyxJisy0LA)|UC0Jx-zSxuYfhzIyxJisy0LA|||
-|X|Videos_Deleted|[YT SHORTS FEED](https://www.youtube.com/channel/UCZARs-SkrxYNdeIaGsFmZTg)|UCZARs-SkrxYNdeIaGsFmZTg|Apps info||
 |O|Strong|[ODY FAILS Shorts](https://www.youtube.com/channel/UCuNbbYH4mEvwPGPnF6-fdLw)|UCuNbbYH4mEvwPGPnF6-fdLw|Driving fails||
 |O|Strong|[Only one](https://www.youtube.com/channel/UCmzzbj5pjyjRLJRaFSCGv2Q)|UCmzzbj5pjyjRLJRaFSCGv2Q|Old Nation 🤙||
 |O|Strong|[comedy shorts](https://www.youtube.com/channel/UCDVxuXGuyISN2y2tCVBKyLg)|UCDVxuXGuyISN2y2tCVBKyLg|Status song||
-|X|Banned|[shorts](https://www.youtube.com/channel/UCtWLqJTp9YPIDjsIKx-t4qw)|UCtWLqJTp9YPIDjsIKx-t4qw|||
 |O|Strong|[Manfosilus Minecraft](https://www.youtube.com/channel/UCY__hgSIc1f80uGUcJrguxg)|UCY__hgSIc1f80uGUcJrguxg|||
-|X|Banned|[SWEET GIRL IN COMMENTS](https://www.youtube.com/channel/UCuFRl4BruwakVCoQl3dOrGA)|UCuFRl4BruwakVCoQl3dOrGA|||
-|X|Videos_Deleted|[trending video](https://www.youtube.com/channel/UCcAXmU-N0sqSowKTHnxI4Qg)|UCcAXmU-N0sqSowKTHnxI4Qg|ali_badsha_ 2 crore views||
 |O|Strong|[0SlinkyDudeFish0](https://www.youtube.com/channel/UC1CPA_VKuHd1tTe5RWGm-Bg)|UC1CPA_VKuHd1tTe5RWGm-Bg|||
-|X|Videos_Deleted|[JIN](https://www.youtube.com/channel/UCtndT7VmcnXuFMtn4MxxbzA)|UCtndT7VmcnXuFMtn4MxxbzA|||
-|X|Banned|[babar eerna](https://www.youtube.com/channel/UCoPi7ZTWek0ydPXgfy4bAfQ)|UCoPi7ZTWek0ydPXgfy4bAfQ|||
 |O|Strong|[Cat Funny Moments](https://www.youtube.com/channel/UCe6YcM0McelN3q2TIAL_Nfw)|UCe6YcM0McelN3q2TIAL_Nfw|||
 |O|Strong|[Imax Street](https://www.youtube.com/channel/UCyKerhFOUwHkdfxWeRasOCw)|UCyKerhFOUwHkdfxWeRasOCw|||
 |O|Strong|[2K3 TV](https://www.youtube.com/channel/UCybRGc3yNZsCQhtW1oOODxg)|UCybRGc3yNZsCQhtW1oOODxg|||
 |O|Strong|[ER Shorts](https://www.youtube.com/channel/UCHdGH-Lo4K5Q4L2BC55rfkQ)|UCHdGH-Lo4K5Q4L2BC55rfkQ|26S FF||
-|X|Videos_Deleted|[Baboo](https://www.youtube.com/channel/UC17KBbDJm3spheV-Hs4cgOw)|UC17KBbDJm3spheV-Hs4cgOw|Chxrlie||
 |O|Strong|[구독버튼 누르기만 해도 좋은일 생겨요👉](https://www.youtube.com/channel/UCnY95f_yPR_A3EJ6Fnhc-fw)|UCnY95f_yPR_A3EJ6Fnhc-fw|||
 |O|Strong|[Baby Shorts](https://www.youtube.com/channel/UCUll_Ho-wfTvkFdRkEALsGw)|UCUll_Ho-wfTvkFdRkEALsGw|||
-|X|Banned|[OMG Short](https://www.youtube.com/channel/UCKP8R6l6XDCxeXTQS2E8G7Q)|UCKP8R6l6XDCxeXTQS2E8G7Q|||
 |O|Strong|[gaming killer k](https://www.youtube.com/channel/UCKkojRuoWlQn2qQKfmmlS7w)|UCKkojRuoWlQn2qQKfmmlS7w|||
 |O|Strong|[Brain in my funn](https://www.youtube.com/channel/UCpdV-ZxGXtB0mUWjxA8Y3sA)|UCpdV-ZxGXtB0mUWjxA8Y3sA|Funn in my life||
-|X|Videos_Deleted|[Fstay999](https://www.youtube.com/channel/UCp4Fl5h52tqNmBjfhCVDmiw)|UCp4Fl5h52tqNmBjfhCVDmiw|||
-|X|Videos_Deleted|[andrej kuc](https://www.youtube.com/channel/UCYASyQj9vnZlESibOqaBb6A)|UCYASyQj9vnZlESibOqaBb6A|||
 |O|Strong|[Md status lover Satawara Dipesh](https://www.youtube.com/channel/UCeQEJvWS8nYEVtwAWCVFjkQ)|UCeQEJvWS8nYEVtwAWCVFjkQ|||
-|X|Videos_Deleted|[Faizan King](https://www.youtube.com/channel/UCQKOzIWtlCVcBk19uo2P9Eg)|UCQKOzIWtlCVcBk19uo2P9Eg|||
-|X|Videos_Deleted|[Saghir Saghir](https://www.youtube.com/channel/UCXK482IWJ9bwecJevauAwtA)|UCXK482IWJ9bwecJevauAwtA|||
 |O|Strong|[Buzz Bee YT](https://www.youtube.com/channel/UCQTDWcdQTm7Rc7KFyFLiSTA)|UCQTDWcdQTm7Rc7KFyFLiSTA|||
 |O|Strong|[Noor CCTV Camera & Computer Center](https://www.youtube.com/channel/UCfZXyMBtJU_F2nmm85OJ4iQ)|UCfZXyMBtJU_F2nmm85OJ4iQ|||
 |O|Strong|[ANUSHA](https://www.youtube.com/channel/UCvkwXINB4GGsxSAX-frNFYQ)|UCvkwXINB4GGsxSAX-frNFYQ|Mr KV99Mr KV99||
-|O|Strong_VideoName|[Motivatsia](https://www.youtube.com/channel/UCYI-VfoRKEdBH1PxO7qh2yA)|UCYI-VfoRKEdBH1PxO7qh2yA|Motivatsion⚜Shorts||
 |O|Strong|[Make it easy](https://www.youtube.com/channel/UC30PTHxI7gu6IE53J1ya2sw)|UC30PTHxI7gu6IE53J1ya2sw|||
 |O|Strong|[Shitty HOW TO](https://www.youtube.com/channel/UCsYdNhxHi_x-ANFxnA8jWUg)|UCsYdNhxHi_x-ANFxnA8jWUg|||
-|X|Videos_Deleted|[𝗦𝗦 𝗚𝗔𝗠𝗜𝗡𝗚](https://www.youtube.com/channel/UCabbie8y-3zuFRt8iygXo9Q)|UCabbie8y-3zuFRt8iygXo9Q|||
 |O|Strong|[GrazyVideo](https://www.youtube.com/channel/UCjOxC8D6l1hvQIayV8erJvw)|UCjOxC8D6l1hvQIayV8erJvw|||
-|X|Videos_Deleted|[Dream 100k](https://www.youtube.com/channel/UCI3jE-NM_BvgUJUf6nL4eCg)|UCI3jE-NM_BvgUJUf6nL4eCg|MJM BUNNY FF||
 |O|Strong|[Driving fails](https://www.youtube.com/channel/UCDJ-Fhs-2gEAhT1tZgw7vAg)|UCDJ-Fhs-2gEAhT1tZgw7vAg|Best video||
 |O|Strong|[Shorts](https://www.youtube.com/channel/UCJGeIuNMXu25RgA1zDMPEhg)|UCJGeIuNMXu25RgA1zDMPEhg|||
 |O|Strong|[cute babies](https://www.youtube.com/channel/UCuMCU2ciSAuLU36ZpRVm8KQ)|UCuMCU2ciSAuLU36ZpRVm8KQ|saif003||
@@ -236,7 +250,6 @@
 |O|Strong|[ВКУСНАЯ ЕДА l ДОСТАВКА ЕДЫ l РОССИЯ](https://www.youtube.com/channel/UC7D-l7W1rvFud3JvnniH2dg)|UC7D-l7W1rvFud3JvnniH2dg|||
 |O|Strong|[Minecraft](https://www.youtube.com/channel/UCPc7NysW66OdkFbyQl9iIuQ)|UCPc7NysW66OdkFbyQl9iIuQ|||
 |O|Strong|[My World](https://www.youtube.com/channel/UCUYlsbDE1ExDJRYT8mtd4ww)|UCUYlsbDE1ExDJRYT8mtd4ww|||
-|X|Banned|[Moon](https://www.youtube.com/channel/UChyY10a30g5QaU77j1ku04Q)|UChyY10a30g5QaU77j1ku04Q|||
 |O|Strong|[WTF Tutorials](https://www.youtube.com/channel/UC7gG5ZUardpvvzj-H1fseXw)|UC7gG5ZUardpvvzj-H1fseXw|||
 |O|Strong|[_hyg_](https://www.youtube.com/channel/UCwIUiPvB1J_ZbdkhfyUKoWQ)|UCwIUiPvB1J_ZbdkhfyUKoWQ|||
 |O|Strong|[squid game](https://www.youtube.com/channel/UCm4cbU5PODFcU9LNspAVftA)|UCm4cbU5PODFcU9LNspAVftA|Squad Game||
@@ -252,7 +265,6 @@
 |O|Strong|[Respect 999+](https://www.youtube.com/channel/UCopAG6eoXxP7gfw1rU8NCZw)|UCopAG6eoXxP7gfw1rU8NCZw|||
 |O|Strong|[D Latke](https://www.youtube.com/channel/UCjoD7LMfciJuzw5rHXx89Qg)|UCjoD7LMfciJuzw5rHXx89Qg|||
 |O|Strong|[technical ago](https://www.youtube.com/channel/UCcRq45U37CvOH6FmOVwkV8g)|UCcRq45U37CvOH6FmOVwkV8g|||
-|X|Banned|[Majak](https://www.youtube.com/channel/UC3wG-3L26GmMWvcde_7sdSQ)|UC3wG-3L26GmMWvcde_7sdSQ|||
 |O|Strong|[BNL BD](https://www.youtube.com/channel/UCyhySW0lFpDIAGUwnIStxDg)|UCyhySW0lFpDIAGUwnIStxDg|||
 |O|Strong|[akash 444](https://www.youtube.com/channel/UCNb2LzARlvtK0E3vuGfQZEw)|UCNb2LzARlvtK0E3vuGfQZEw|||
 |O|Strong|[Anivex Vibes](https://www.youtube.com/channel/UCdv6NQg4uxcWEFgKjkFkquQ)|UCdv6NQg4uxcWEFgKjkFkquQ|||
@@ -261,34 +273,25 @@
 |O|Strong|[Javad](https://www.youtube.com/channel/UCNjhWaI25DVnNZij9myLtcA)|UCNjhWaI25DVnNZij9myLtcA|||
 |O|Strong|[Seeteep 404](https://www.youtube.com/channel/UCcSSgBlx_FwkbFYhcqeY3Hg)|UCcSSgBlx_FwkbFYhcqeY3Hg|||
 |O|Strong|[Cat Lover](https://www.youtube.com/channel/UCF8OInceeezbxRoda87ipAw)|UCF8OInceeezbxRoda87ipAw|||
-|X|Videos_Deleted|[TS ANSHU GAMER](https://www.youtube.com/channel/UCPpo8kZSU-zn1lRQMc9CDKg)|UCPpo8kZSU-zn1lRQMc9CDKg|||
 |O|Strong|[vv 25k](https://www.youtube.com/channel/UCzyB1ZmC0sr6csBZPUqem4w)|UCzyB1ZmC0sr6csBZPUqem4w|||
 |O|Strong|[world Talent 2](https://www.youtube.com/channel/UCSkPzxlNS0625HaG1QeMsJg)|UCSkPzxlNS0625HaG1QeMsJg|||
 |O|Strong|[Robloxster](https://www.youtube.com/channel/UCi1I1KeX8-J3W6Qorpp71OA)|UCi1I1KeX8-J3W6Qorpp71OA|||
-|X|Banned|[Yop Gy](https://www.youtube.com/channel/UCHdVtlkzToM10iKMPNEDIXg)|UCHdVtlkzToM10iKMPNEDIXg|||
-|X|Banned|[Lucky Maker](https://www.youtube.com/channel/UCh_s-D47jhOjnMSqApg2tcw)|UCh_s-D47jhOjnMSqApg2tcw|||
 |O|Strong|[Rohan](https://www.youtube.com/channel/UCZks3FhruKGQ8vwNwLFXAzA)|UCZks3FhruKGQ8vwNwLFXAzA|||
 |O|Strong|[Moe Lester](https://www.youtube.com/channel/UCwzfIGjY34Ai04HHVYI-Fpw)|UCwzfIGjY34Ai04HHVYI-Fpw|||
-|X|Videos_Deleted|[JK BEST GAMER](https://www.youtube.com/channel/UCD3BcWqLDNZZZP3kDdkdL8A)|UCD3BcWqLDNZZZP3kDdkdL8A|||
 |O|Strong|[Cute baby shorts](https://www.youtube.com/channel/UCF7LEyb6-2lbBres5JMlGLQ)|UCF7LEyb6-2lbBres5JMlGLQ|||
 |O|Strong|[MrPumpkinMan](https://www.youtube.com/channel/UC9QUV8rfYH0Ad4WQp77XrHg)|UC9QUV8rfYH0Ad4WQp77XrHg|||
 |O|Strong|[UNIQUE SHORTS](https://www.youtube.com/channel/UC8EwvaHLrstsJWC7fUjdsJg)|UC8EwvaHLrstsJWC7fUjdsJg|||
-|X|Videos_Deleted|[MainKek](https://www.youtube.com/channel/UC-m1SyHqpEoiwv233qFQmbw)|UC-m1SyHqpEoiwv233qFQmbw|||
 |O|Strong|[Ashish warrior](https://www.youtube.com/channel/UCgqzgv-1dwUgRq3SsOD-Dbg)|UCgqzgv-1dwUgRq3SsOD-Dbg|||
 |O|Strong|[Malik Umar](https://www.youtube.com/channel/UC_-qn_0C1Kh5g7IXGLMJ-kQ)|UC_-qn_0C1Kh5g7IXGLMJ-kQ|||
 |O|Strong|[pets look 🥰](https://www.youtube.com/channel/UCFCNPZ80HAfv35HJBV07jIg)|UCFCNPZ80HAfv35HJBV07jIg|||
 |O|Strong|[Everything Minecraft](https://www.youtube.com/channel/UClWnb7v9KEvUxszutp0uKOA)|UClWnb7v9KEvUxszutp0uKOA|||
 |O|Strong|[Muhammad Yousaf](https://www.youtube.com/channel/UC0bVWQSzw03b5OtkWND5kyQ)|UC0bVWQSzw03b5OtkWND5kyQ|||
 |O|Strong|[clean your copper](https://www.youtube.com/channel/UCf6A_Lui4a68mW49OX-IyWQ)|UCf6A_Lui4a68mW49OX-IyWQ|||
-|X|Banned|[Yarri yarri](https://www.youtube.com/channel/UCH1wgdZAVQnqQ6oeW8iLdzQ)|UCH1wgdZAVQnqQ6oeW8iLdzQ|||
 |O|Strong|[Mr Beast](https://www.youtube.com/channel/UC4_v8eAnOAa0ita1coizRUw)|UC4_v8eAnOAa0ita1coizRUw|||
 |O|Strong|[Kids Vibe](https://www.youtube.com/channel/UC-olgV9H6zuXrc-MR7F2iBg)|UC-olgV9H6zuXrc-MR7F2iBg|||
-|O|Weak|[KAKASHI 2.0](https://www.youtube.com/channel/UClT-4XBY5I450i8dsM5ZOqQ)|UClT-4XBY5I450i8dsM5ZOqQ|||
-|X|Banned|[Channel Mamank 02](https://www.youtube.com/channel/UC4jqae5zRhvJ7s0vmK3wUMQ)|UC4jqae5zRhvJ7s0vmK3wUMQ|||
 |O|Strong|[Mr Strange](https://www.youtube.com/channel/UCDYExc0lpIDReHqKqqgmLZw)|UCDYExc0lpIDReHqKqqgmLZw|||
 |O|Strong|[Brother of Youtube](https://www.youtube.com/channel/UCoKnGpOLxW8A80hKsGt1jjg)|UCoKnGpOLxW8A80hKsGt1jjg|||
 |O|Strong|[Avesh Craft](https://www.youtube.com/channel/UCYCGmXHUS6avGgZLEf3DFfQ)|UCYCGmXHUS6avGgZLEf3DFfQ|||
-|X|Banned|[2.0 ART](https://www.youtube.com/channel/UC1u7OocOnhei28jxgDv3ltA)|UC1u7OocOnhei28jxgDv3ltA|||
 |O|Strong|[TikTok Tube](https://www.youtube.com/channel/UC_A-wGgY1zsSQeVgCnB2Rjg)|UC_A-wGgY1zsSQeVgCnB2Rjg|||
 |O|Strong|[It's ME KAMRUL YT](https://www.youtube.com/channel/UCwRo4RV74rGaAjHz0DTEtDw)|UCwRo4RV74rGaAjHz0DTEtDw|||
 |O|Strong|[diomond craft](https://www.youtube.com/channel/UCC-m2gJqiDQjXRBeEdL6EMg)|UCC-m2gJqiDQjXRBeEdL6EMg|||
@@ -321,11 +324,9 @@
 |O|Strong|[yt funny videos](https://www.youtube.com/channel/UC5szEadkPZnSHDgVqRdMkRw)|UC5szEadkPZnSHDgVqRdMkRw|||
 |O|Strong|[The World Series](https://www.youtube.com/channel/UCSvOA3CbLA0GtvkhcE9LaoQ)|UCSvOA3CbLA0GtvkhcE9LaoQ|||
 |O|Strong|[cute videos world](https://www.youtube.com/channel/UC85M__Hic0Gvsa64mL_nMlw)|UC85M__Hic0Gvsa64mL_nMlw|||
-|X|Videos_Deleted|[Maa Gpm](https://www.youtube.com/channel/UCGKg966OqG1AtTl2VRFoNSQ)|UCGKg966OqG1AtTl2VRFoNSQ|Gang Olympus||
 |O|Strong|[Хьюви Shorts](https://www.youtube.com/channel/UCgjh96YgRA8sq1PEDBOk-DA)|UCgjh96YgRA8sq1PEDBOk-DA|||
 |O|Strong|[Carry Minati #short](https://www.youtube.com/channel/UCD0xEhCa-6TfQdNHDxWB06A)|UCD0xEhCa-6TfQdNHDxWB06A|||
 |O|Strong|[SAHEB ZEHAN 777](https://www.youtube.com/channel/UCuIauqC4wzsxDzU9y15bvZg)|UCuIauqC4wzsxDzU9y15bvZg|||
-|X|Videos_Deleted|[rock key life( rockey)](https://www.youtube.com/channel/UC5RXI0dYp-JLxWh0f3pvx5w)|UC5RXI0dYp-JLxWh0f3pvx5w|||
 |O|Strong|[Hi](https://www.youtube.com/channel/UCQrgpqG7tL25FGuAJ22F7TA)|UCQrgpqG7tL25FGuAJ22F7TA|||
 |O|Strong|[E-Mortal plays](https://www.youtube.com/channel/UC0GywmW0A8VhnZO4n4L_KaQ)|UC0GywmW0A8VhnZO4n4L_KaQ|||
 |O|Strong|[KAIPO YT](https://www.youtube.com/channel/UCfi-VdWFuKbD05O-1Od095A)|UCfi-VdWFuKbD05O-1Od095A|||
@@ -336,7 +337,6 @@
 |O|Strong|[TikTok 9](https://www.youtube.com/channel/UCNNVCrKO5lUlmU6W_nhgeUQ)|UCNNVCrKO5lUlmU6W_nhgeUQ|||
 |O|Strong|[Cute Pets](https://www.youtube.com/channel/UCQhk6B1GkhXn_U18vryD6xA)|UCQhk6B1GkhXn_U18vryD6xA|||
 |O|Strong|[mineCraft](https://www.youtube.com/channel/UC1e4PTpCnM8RSilm3QhDNBA)|UC1e4PTpCnM8RSilm3QhDNBA|||
-|X|Videos_Deleted|[Cats Family](https://www.youtube.com/channel/UCzZKZCWjEsa6l3Io89XAUZA)|UCzZKZCWjEsa6l3Io89XAUZA|||
 |O|Strong|[Chitney](https://www.youtube.com/channel/UC3TyVwAMvXjC4ZiXKhoH8rQ)|UC3TyVwAMvXjC4ZiXKhoH8rQ|||
 |O|Strong|[Animal Lover](https://www.youtube.com/channel/UCGtcA_klbEl4wqp-NUgoFpA)|UCGtcA_klbEl4wqp-NUgoFpA|||
 |O|Strong|[Geeta Saini official](https://www.youtube.com/channel/UCewBRtuBSDQu-V3kFEUJy2w)|UCewBRtuBSDQu-V3kFEUJy2w|||
